@@ -14,11 +14,11 @@ Pain Is Inevitable; Suffering Is Optional
 
    如图所示，搜索software，打开搜索结果中的软件与更新
 
-   ![image-20210128172139499](教程.assets\image-20210128172139499.png)
+   ![image-20210128172139499](教程.assets/image-20210128172139499.png)
 
    点击其他站点
 
-   ![image-20210128172157205](教程.assets\image-20210128172157205.png)
+   ![image-20210128172157205](教程.assets/image-20210128172157205.png)
 
    在 选择下载服务器中mirrors.ustc.edu.cn
 
